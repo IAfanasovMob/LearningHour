@@ -1,6 +1,7 @@
 # LearningHour
 
 What could be better than frontenders learning together? *Frontend outing*
+
 What are we going to do? *learning together!*
 
 - 5-10 minutes - intro to a topic
